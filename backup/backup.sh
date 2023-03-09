@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOST=root@10.13.99.105
+HOST=root@hostname
 SOURCE=/home/dev/testing
 TARGET=/home/dev/test
 DAYS=7 
@@ -29,3 +29,4 @@ echo Old files has been successfully erased!
 echo 
 echo 
 echo "--- ГОТОВО! =) ---"
+
